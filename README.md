@@ -1,2 +1,2 @@
 
-<h1 align="center">Composable Open-Source Payments Infrastructure</h1>
+<h1 align="center">Vimrc-Config</h1>
